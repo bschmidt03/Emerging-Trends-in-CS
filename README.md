@@ -1,5 +1,4 @@
 # Emerging-Trends-in-CS
-CS 370
 For this project, I built a Deep Q-Learning agent, the “pirate,” that learns to find the best path through a maze to reach the treasure. I was given the environment class (TreasureMaze.py) and the experience replay class (GameExperience.py), along with partial starter code in the notebook. My main task was to complete the Q-Training Algorithm, which trains the model using experience replay, epsilon-greedy exploration, and early stopping once the win rate improves. I confirmed that the model works correctly, but due to limited hardware, I could not let it run long enough to reach full convergence.
 
 Computer scientists build systems that solve real-world problems by analyzing data, automating processes, and creating intelligent solutions. This project showed how reinforcement learning helps an agent make decisions in a complex environment without explicit instructions. It demonstrates how concepts from AI and neural networks apply to industries like robotics, logistics, and cybersecurity.
